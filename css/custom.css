@@ -1,14 +1,16 @@
 /*! Place your custom styles here */
+
+
 h1,.h1 {
   font-size: 10em;
   text-align: center;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'FuturaPT-Bold', sans-serif;
   font-weight: 700;
   color: #191c1f;
 }
 
 h2,.h2 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'FuturaPT-Bold', sans-serif;
   font-size: 2.5em;
   font-weight: 700;
   color: #191c1f;
@@ -20,14 +22,14 @@ h2,.h2 {
 }
 
 h3,.h3 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'FuturaPT-Bold', sans-serif;
   font-weight: 500;
   color: #191c1f;
   margin-top: 1em;
 }
 
 h4,.h4 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'FuturaPT-Bold', sans-serif;
   font-weight: 700;
   color: #191c1f;
 }
@@ -51,7 +53,7 @@ label {
 }
 
 .imagebg:not(.image--light) h1 {
-  font-family:'Rubik', sans-serif;
+  font-family:'FuturaPT', sans-serif;
   font-weight: 700;
   color: #191c1f;
 }
