@@ -35,6 +35,10 @@ h4,.h4 {
   color: #191c1f;
 }
 
+.menu-vertical > li {
+  font-family: 'FuturaPT-Bold', 'Open Sans', sans-serif;
+}
+
 .lead {
   font-size: 1.4em;
   font-weight: 300;
@@ -161,4 +165,8 @@ a {
   margin-right:40px;
   color: #272727;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.21);
+}
+
+.box-shadow-shallow {
+  box-shadow: 0 8px 8px rgba(0, 0, 0, 0.24);
 }
